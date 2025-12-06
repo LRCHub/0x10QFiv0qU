@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "高円寺にて",
+  "base_artist": "PEOPLE 1",
+  "createdAt": "2025-12-06T07:07:05.797503Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "高円寺にて",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/pl_01_高円寺にて_PEOPLE_1.txt"
+    }
+  ]
+}
